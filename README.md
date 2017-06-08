@@ -5,9 +5,13 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
 	* Functions
+  Functions are reusable blocks of code that take an input and give an output. They are used to mold and shape your data inputs.
 	* Parameters
+  Parameters are the defined variables that will be passed into your functions.
 	* Arguments
+  Arguments are the inputs themselves put in place of the parameters you defined at the beginning of your function.
 	* `if` statements
+  'if' statements are boolean statements used to effect your input based on which specific arguments they are. 'if' data passed threw this test equals true then do this specific action, if it is false then do something else.
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
